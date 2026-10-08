@@ -1,54 +1,18 @@
-<div align="center">
+## Hi, I’m Ali Far 👋
 
-# Ali Far
-### AI & Software Developer · Audio ML · Python Backend
+**AI & software developer focused on audio ML, Python and backend applications.**
 
-I build machine-learning pipelines and turn models into usable applications.
+🎓 Honours graduate in **Software Engineering–AI** at Centennial College, Canada · **GPA 4.3/4.5**  
+🔬 **Funded WIMTACH research** on manatee vocalization classification · processing pipeline approximately **5× faster**  
+🚀 Built model-serving applications with **Flask and Docker**  
+📝 Co-author of a manuscript submitted to **ACM Transactions on AI for Science** · **under review**
 
-[Explore my projects](#selected-projects) · [LinkedIn](https://www.linkedin.com/in/alireza-farkhond)
+I enjoy turning research into working software—from preparing datasets and evaluating models to building APIs. I’m exploring junior AI/ML and software engineering opportunities in Switzerland.
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
+**Let’s connect**
 
-## About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-farkhond) · [Watch my research project](https://lnkd.in/p/gHwZ6jVs)
 
-I completed an **Advanced Diploma in Software Engineering–Artificial Intelligence** at Centennial College in Canada, graduating with honours (**GPA 4.3/4.5**). My work spans audio classification, data processing, model evaluation and backend development.
-
-My strongest experience is taking an ML project from dataset preparation through experimentation to a **Flask API packaged with Docker**. I am interested in junior AI/ML, Python backend and software engineering opportunities in Switzerland.
-
-## Research highlight — Manatee vocalization classification
-
-A capstone project that continued as **funded WIMTACH research**.
-
-- Processed audio recordings and compared deep-learning approaches for vocalization classification.
-- Improved a processing pipeline’s speed by approximately **5×**.
-- Delivered a Dockerized Flask application for model inference.
-- Co-authored *Detecting Florida Manatee Vocalizations by an Operational Artificial Intelligence Ensemble Framework*, submitted to **ACM Transactions on AI for Science on 6 October 2026**. The manuscript is under review.
-
-[Watch the project video](https://lnkd.in/p/gHwZ6jVs)
-
-## Selected projects
-
-| Project | What it demonstrates | Tools |
-| --- | --- | --- |
-| [Fraud Detector](https://github.com/AlirezaFarkhondeh2k3/fraud-detector-app) | Batch and single-transaction inference with a web interface | Python, PyTorch, Flask, Docker |
-| [Emergency Triage Assistant](https://github.com/AlirezaFarkhondeh2k3/emergency-triage-assistant) | Local LLM integration, incident classification and retrieval-based guidance in a prototype | Python, FastAPI, Ollama |
-| [AWS Slang Detector](https://github.com/AlirezaFarkhondeh2k3/slang-detector-aws) | Speech transcription and custom entity recognition; college group project | AWS Transcribe, Comprehend, Python |
-| [Fashion Review Sentiment & Recommendations](https://github.com/AlirezaFarkhondeh2k3/fashion-review-sentiment-llm) | Sentiment modelling, recommendations and T5-based text generation | scikit-learn, TF-IDF, T5 |
-
-## Tools I work with
-
-**ML & data:** Python · PyTorch · TensorFlow · scikit-learn · pandas · NumPy · SQL  
-**Applications & deployment:** Flask · FastAPI · Docker · Git · Linux · AWS  
-**Additional development:** JavaScript · React · Node.js · Java · C#
-
-## Education & achievements
-
-- **Honours graduate** — Software Engineering–AI, Centennial College.
-- **Three completed courses** in the Machine Learning Specialization from Stanford Online and DeepLearning.AI.
-- **Funded research extension** and a **submitted ACM manuscript** arising from my audio ML project.
-
----
-
-Open to discussing practical AI, audio ML and junior engineering opportunities.
+Explore the selected projects pinned below ↓
