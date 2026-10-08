@@ -13,6 +13,6 @@ I enjoy turning research into working software—from preparing datasets and eva
 
 **Let’s connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-farkhond) · [Watch my research project](https://lnkd.in/p/gHwZ6jVs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-farkhond)
 
 Explore the selected projects pinned below ↓
